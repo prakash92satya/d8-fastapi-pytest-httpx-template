@@ -21,6 +21,7 @@ pydantic==2.13.3
 pydantic_core==2.46.3
 Pygments==2.20.0
 pytest==9.0.3
+pytest-asyncio==1.3.0
 python-jose==3.5.0
 python-multipart==0.0.27
 rsa==4.9.1
